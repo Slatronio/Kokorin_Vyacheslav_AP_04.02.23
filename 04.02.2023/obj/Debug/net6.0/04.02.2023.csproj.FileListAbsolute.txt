@@ -1,0 +1,15 @@
+F:\Microsoft Visual Studio\Projects\04.02.2023\04.02.2023\bin\Debug\net6.0\04.02.2023.exe
+F:\Microsoft Visual Studio\Projects\04.02.2023\04.02.2023\bin\Debug\net6.0\04.02.2023.deps.json
+F:\Microsoft Visual Studio\Projects\04.02.2023\04.02.2023\bin\Debug\net6.0\04.02.2023.runtimeconfig.json
+F:\Microsoft Visual Studio\Projects\04.02.2023\04.02.2023\bin\Debug\net6.0\04.02.2023.dll
+F:\Microsoft Visual Studio\Projects\04.02.2023\04.02.2023\bin\Debug\net6.0\04.02.2023.pdb
+F:\Microsoft Visual Studio\Projects\04.02.2023\04.02.2023\obj\Debug\net6.0\04.02.2023.csproj.AssemblyReference.cache
+F:\Microsoft Visual Studio\Projects\04.02.2023\04.02.2023\obj\Debug\net6.0\04.02.2023.GeneratedMSBuildEditorConfig.editorconfig
+F:\Microsoft Visual Studio\Projects\04.02.2023\04.02.2023\obj\Debug\net6.0\04.02.2023.AssemblyInfoInputs.cache
+F:\Microsoft Visual Studio\Projects\04.02.2023\04.02.2023\obj\Debug\net6.0\04.02.2023.AssemblyInfo.cs
+F:\Microsoft Visual Studio\Projects\04.02.2023\04.02.2023\obj\Debug\net6.0\04.02.2023.csproj.CoreCompileInputs.cache
+F:\Microsoft Visual Studio\Projects\04.02.2023\04.02.2023\obj\Debug\net6.0\04.02.2023.dll
+F:\Microsoft Visual Studio\Projects\04.02.2023\04.02.2023\obj\Debug\net6.0\refint\04.02.2023.dll
+F:\Microsoft Visual Studio\Projects\04.02.2023\04.02.2023\obj\Debug\net6.0\04.02.2023.pdb
+F:\Microsoft Visual Studio\Projects\04.02.2023\04.02.2023\obj\Debug\net6.0\04.02.2023.genruntimeconfig.cache
+F:\Microsoft Visual Studio\Projects\04.02.2023\04.02.2023\obj\Debug\net6.0\ref\04.02.2023.dll
